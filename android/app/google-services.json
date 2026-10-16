@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936800367935",
+    "project_id": "pemrogmobile-db971",
+    "storage_bucket": "pemrogmobile-db971.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936800367935:android:2f9cb9da0024da86260f8a",
+        "android_client_info": {
+          "package_name": "com.example.praktikum4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsv5ovmSCnGQ60dCXzrgLlfGh3vLCFric"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
